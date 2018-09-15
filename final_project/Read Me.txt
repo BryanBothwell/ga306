@@ -1,0 +1,6 @@
+Hey so for this python script, while extremely simple, it streamlines something both modelers and animators do repeatedly 
+throughout the course of their work. This script centers the pivot to the object, freezes the transforms on the object, then deletes its construction history. 
+Again we do this over and over again and having the option to run a simple script for it instead would inevitably save time on a long pipeline.
+
+To use the script you simply import it into maya and make sure that maya cmds are loaded, once that's all done you simply click on the object you want run the script on 
+and run it! The script takes care of the rest. 
